@@ -1,5 +1,5 @@
 Title:- [[Ad Fatigue]]
-Tags: - 
+Tags: - #test
 
 --------
 If you show the same ads to the same people, there comes a point when they become less responsive to your ads.
